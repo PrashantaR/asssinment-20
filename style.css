@@ -1,0 +1,10 @@
+.breadcrumb-item.active {
+    color: var(--bs-breadcrumb-item-active-color);
+    padding: 5px 580px 5px 5px;
+}
+.footer{
+    text-align: center;
+}
+a:hover{
+    background: green;
+}
